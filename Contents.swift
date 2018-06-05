@@ -236,8 +236,8 @@ do {
 }*/
 
 // Debuggint with Assertions
-let age = -3
-assert(age >= 0,"A person's age can't be less the zero")
+/*let age = -3
+assert(age > = 0,"A person's age can't be less the zero")
 if age > 10 {
     print("You can ride the roller-coaster or the ferris wheel")
 }else if age > 0 {
@@ -249,3 +249,4 @@ if age > 10 {
 // Enforcing preconditions
 
 //preconditionFailure(index > 0,"Index must be greater than zero")
+*/
